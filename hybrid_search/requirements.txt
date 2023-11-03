@@ -1,3 +1,0 @@
-clickhouse-connect
-prettytable
-sentence-transformers
